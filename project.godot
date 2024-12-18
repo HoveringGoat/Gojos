@@ -23,6 +23,10 @@ GlobalVariables="*res://GameCode/GlobalVariables.gd"
 
 window/stretch/mode="canvas_items"
 
+[dotnet]
+
+project/assembly_name="Gojos!"
+
 [global_group]
 
 Player=""

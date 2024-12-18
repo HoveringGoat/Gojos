@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cw1fq0j58ow6"
-path="res://.godot/imported/dead00g.png-c887b43d8aff3678ae084f28ae274f94.ctex"
+uid="uid://dxsqk7p8v07pt"
+path="res://.godot/imported/walk01g(1).png-97f8c62c6897cd7986062b06ee2a58ff.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GameAssets/dead00g.png"
-dest_files=["res://.godot/imported/dead00g.png-c887b43d8aff3678ae084f28ae274f94.ctex"]
+source_file="res://GameAssets/Player Sprites/walk01g(1).png"
+dest_files=["res://.godot/imported/walk01g(1).png-97f8c62c6897cd7986062b06ee2a58ff.ctex"]
 
 [params]
 

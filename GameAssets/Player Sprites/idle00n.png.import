@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://8d7fr4i6wq88"
-path="res://.godot/imported/kick00g.png-9cb10498588a83fd5e5f23331692abfe.ctex"
+uid="uid://dixtx12kctoun"
+path="res://.godot/imported/idle00n.png-e1cacb50ace2e338b358d91d37b68c7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GameAssets/kick00g.png"
-dest_files=["res://.godot/imported/kick00g.png-9cb10498588a83fd5e5f23331692abfe.ctex"]
+source_file="res://GameAssets/Player Sprites/idle00n.png"
+dest_files=["res://.godot/imported/idle00n.png-e1cacb50ace2e338b358d91d37b68c7f.ctex"]
 
 [params]
 

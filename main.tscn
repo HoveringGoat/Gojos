@@ -1,13 +1,13 @@
 [gd_scene load_steps=16 format=3 uid="uid://bmv806l3ixeuc"]
 
 [ext_resource type="Script" path="res://GameAssets/game_manager.gd" id="1_ax17l"]
-[ext_resource type="Texture2D" uid="uid://dffinnc3aatie" path="res://GameAssets/costume4.png" id="2_pmns8"]
-[ext_resource type="Texture2D" uid="uid://0yyslrdhxlku" path="res://GameAssets/costume4(1).png" id="3_t26xr"]
-[ext_resource type="Texture2D" uid="uid://ckryt0k0o08r8" path="res://GameAssets/costume4(2).png" id="4_g063b"]
+[ext_resource type="Texture2D" path="res://GameAssets/costume4.png" id="2_pmns8"]
+[ext_resource type="Texture2D" path="res://GameAssets/costume4(1).png" id="3_t26xr"]
+[ext_resource type="Texture2D" path="res://GameAssets/costume4(2).png" id="4_g063b"]
 [ext_resource type="PackedScene" uid="uid://c8c825eswjwof" path="res://GameAssets/Collect.tscn" id="5_q5yjw"]
-[ext_resource type="Texture2D" uid="uid://cryslmrs0y81e" path="res://GameAssets/costume3.png" id="6_8ov1r"]
-[ext_resource type="PackedScene" path="res://GameAssets/finish_flag.tscn" id="7_qea1e"]
-[ext_resource type="PackedScene" uid="uid://djcy6bjclct8k" path="res://GameAssets/Scenes/Character.tscn" id="8_strk5"]
+[ext_resource type="Texture2D" path="res://GameAssets/costume3.png" id="6_8ov1r"]
+[ext_resource type="PackedScene" uid="uid://bjgb4ua400dsi" path="res://GameAssets/finish_flag.tscn" id="7_qea1e"]
+[ext_resource type="PackedScene" uid="uid://djcy6bjclct8k" path="res://GameAssets/Character.tscn" id="8_strk5"]
 [ext_resource type="FontFile" uid="uid://cds067kjgjrxr" path="res://GameAssets/yoster.ttf" id="9_14jib"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_j2icj"]
@@ -129,6 +129,7 @@ stretch_mode = 1
 
 [node name="CharacterBody2D" parent="Scene/Objects" instance=ExtResource("8_strk5")]
 position = Vector2(132, -6390)
+script = null
 
 [node name="Camera2D" type="Camera2D" parent="Scene/Objects/CharacterBody2D"]
 position = Vector2(37.75, 853.125)

@@ -1,10 +1,10 @@
 [gd_scene load_steps=15 format=3 uid="uid://djcy6bjclct8k"]
 
-[ext_resource type="Script" path="res://GameAssets/Scenes/character.gd" id="1_2kjnv"]
-[ext_resource type="Texture2D" path="res://GameAssets/Player Sprites/jump00g.png" id="2_w27dd"]
-[ext_resource type="Texture2D" path="res://GameAssets/Player Sprites/kick00g.png" id="3_67b3m"]
-[ext_resource type="Texture2D" path="res://GameAssets/Player Sprites/walk01g(1).png" id="4_y4d2i"]
-[ext_resource type="Texture2D" path="res://GameAssets/Player Sprites/walk00g.png" id="5_vo8q7"]
+[ext_resource type="Script" path="res://GameAssets/character.gd" id="1_2kjnv"]
+[ext_resource type="Texture2D" uid="uid://csrtpbd3li2r3" path="res://GameAssets/Player Sprites/jump00g.png" id="2_w27dd"]
+[ext_resource type="Texture2D" uid="uid://8d7fr4i6wq88" path="res://GameAssets/Player Sprites/kick00g.png" id="3_67b3m"]
+[ext_resource type="Texture2D" uid="uid://dxsqk7p8v07pt" path="res://GameAssets/Player Sprites/walk01g(1).png" id="4_y4d2i"]
+[ext_resource type="Texture2D" uid="uid://cponp7dqbas02" path="res://GameAssets/Player Sprites/walk00g.png" id="5_vo8q7"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_cqi5i"]
 atlas = ExtResource("2_w27dd")

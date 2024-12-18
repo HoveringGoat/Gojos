@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cryslmrs0y81e"
-path="res://.godot/imported/costume3.png-519ee30e26ee4e2a6fce7d7797d8d342.ctex"
+uid="uid://v1bbr1bcvhcj"
+path="res://.godot/imported/walk00g2.png-e6c225ba29f1f5812aa6efd58aa8ce3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GameAssets/costume3.png"
-dest_files=["res://.godot/imported/costume3.png-519ee30e26ee4e2a6fce7d7797d8d342.ctex"]
+source_file="res://GameAssets/Player Sprites/walk00g2.png"
+dest_files=["res://.godot/imported/walk00g2.png-e6c225ba29f1f5812aa6efd58aa8ce3b.ctex"]
 
 [params]
 

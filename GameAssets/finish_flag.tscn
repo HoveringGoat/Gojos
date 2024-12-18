@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjgb4ua400dsi"]
+
+[ext_resource type="Texture2D" uid="uid://bw86n36jn3emo" path="res://GameAssets/costume5.png" id="1_ijuwa"]
+
+[node name="FinishFlag" type="Area2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture_filter = 1
+position = Vector2(2349, 42)
+scale = Vector2(8.05882, 7)
+texture = ExtResource("1_ijuwa")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]

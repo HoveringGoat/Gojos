@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ckryt0k0o08r8"
-path="res://.godot/imported/costume4(2).png-6c3ddd792b229f9f811a74bb1f82622c.ctex"
+uid="uid://d0cbxxwcwli23"
+path="res://.godot/imported/costume1(1).png-38d91e43b379692ece2f7566663c37ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GameAssets/Player Sprites/costume4(2).png"
-dest_files=["res://.godot/imported/costume4(2).png-6c3ddd792b229f9f811a74bb1f82622c.ctex"]
+source_file="res://GameAssets/costume1(1).png"
+dest_files=["res://.godot/imported/costume1(1).png-38d91e43b379692ece2f7566663c37ab.ctex"]
 
 [params]
 
